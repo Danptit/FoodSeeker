@@ -22,7 +22,16 @@
   "dependencies": {
     "axios": "^0.18.0",
     "babel-polyfill": "^6.26.0",
+    "cheerio": "^1.0.0-rc.2",
     "fractional": "^1.0.0",
     "uniqid": "^4.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danptit/FoodSeeker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Danptit/FoodSeeker/issues"
+  },
+  "homepage": "https://github.com/Danptit/FoodSeeker#readme"
 }
